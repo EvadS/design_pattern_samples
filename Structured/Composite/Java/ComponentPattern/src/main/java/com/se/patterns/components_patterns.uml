@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="305.0" y="160.0">com.se.patterns.CompoundShape</node>
+    <node x="140.5" y="0.0">com.se.patterns.Shape</node>
+    <node x="128.5" y="80.0">com.se.patterns.BaseShape</node>
+    <node x="87.0" y="160.0">com.se.patterns.Circle</node>
+    <node x="0.0" y="235.0">com.se.patterns.ImageEditor</node>
+    <node x="185.0" y="160.0">com.se.patterns.Rectangle</node>
+    <node x="0.0" y="160.0">com.se.patterns.Dot</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.se.patterns.CompoundShape" target="com.se.patterns.BaseShape">
+      <point x="0.0" y="-15.0" />
+      <point x="375.5" y="130.0" />
+      <point x="219.5" y="130.0" />
+      <point x="39.0" y="15.0" />
+    </edge>
+    <edge source="com.se.patterns.Dot" target="com.se.patterns.BaseShape">
+      <point x="0.0" y="-15.0" />
+      <point x="33.5" y="130.0" />
+      <point x="141.5" y="130.0" />
+      <point x="-39.0" y="15.0" />
+    </edge>
+    <edge source="com.se.patterns.Circle" target="com.se.patterns.BaseShape">
+      <point x="0.0" y="-15.0" />
+      <point x="126.0" y="140.0" />
+      <point x="167.5" y="140.0" />
+      <point x="-13.0" y="15.0" />
+    </edge>
+    <edge source="com.se.patterns.Rectangle" target="com.se.patterns.BaseShape">
+      <point x="0.0" y="-15.0" />
+      <point x="235.0" y="140.0" />
+      <point x="193.5" y="140.0" />
+      <point x="13.0" y="15.0" />
+    </edge>
+    <edge source="com.se.patterns.BaseShape" target="com.se.patterns.Shape">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="0.0" y="-7.0" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

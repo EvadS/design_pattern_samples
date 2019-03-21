@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-234.99999999999991" y="-69.37499999999997">com.se.sample.Adaptee</node>
+    <node x="112.0" y="0.0">com.se.sample.Target</node>
+    <node x="24.0" y="80.0">com.se.sample.Adapter</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.se.sample.Adapter" target="com.se.sample.Target">
+      <point x="30.0" y="-15.0" />
+      <point x="99.0" y="55.0" />
+      <point x="153.0" y="55.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.se.sample.Adapter" target="com.se.sample.Adaptee">
+      <point x="-30.0" y="-15.0" />
+      <point x="39.0" y="55.0" />
+      <point x="23.0" y="55.0" />
+      <point x="-23.0" y="15.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.6000000000000005" x="-5.6843418860808015E-14" y="-4.0625" />
+  <SelectedNodes>
+    <node>com.se.sample.Adaptee</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

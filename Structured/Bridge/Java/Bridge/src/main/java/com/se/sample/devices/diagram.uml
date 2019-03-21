@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="239.19047619047615" y="80.0">com.se.sample.devices.Radio</node>
+    <node x="-135.0" y="2.0">com.se.sample.devices.Remote</node>
+    <node x="22.190476190476147" y="80.0">com.se.sample.devices.BasicRemote</node>
+    <node x="158.19047619047615" y="80.0">com.se.sample.devices.Tv</node>
+    <node x="147.19047619047615" y="0.0">com.se.sample.devices.Device</node>
+    <node x="52.89999999999998" y="160.0">com.se.sample.devices.AdvancedRemote</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.se.sample.devices.Radio" target="com.se.sample.devices.Device">
+      <point x="0.0" y="-15.0" />
+      <point x="278.19047619047615" y="60.0" />
+      <point x="205.29047619047614" y="60.0" />
+      <point x="16.599999999999994" y="15.0" />
+    </edge>
+    <edge source="com.se.sample.devices.AdvancedRemote" target="com.se.sample.devices.Device">
+      <point x="47.33333333333334" y="-15.0" />
+      <point x="171.23333333333332" y="135.0" />
+      <point x="327.69047619047615" y="135.0" />
+      <point x="327.69047619047615" y="50.0" />
+      <point x="221.89047619047616" y="50.0" />
+      <point x="33.20000000000002" y="15.0" />
+    </edge>
+    <edge source="com.se.sample.devices.AdvancedRemote" target="com.se.sample.devices.BasicRemote">
+      <point x="0.0" y="-15.0" />
+      <point x="123.89999999999998" y="135.0" />
+      <point x="109.19047619047615" y="135.0" />
+      <point x="29.0" y="15.0" />
+    </edge>
+    <edge source="com.se.sample.devices.BasicRemote" target="com.se.sample.devices.Device">
+      <point x="38.66666666666666" y="-15.0" />
+      <point x="118.8571428571428" y="60.0" />
+      <point x="172.09047619047615" y="60.0" />
+      <point x="-16.599999999999994" y="15.0" />
+    </edge>
+    <edge source="com.se.sample.devices.BasicRemote" target="com.se.sample.devices.Remote">
+      <point x="-38.66666666666666" y="-15.0" />
+      <point x="41.52380952380949" y="60.0" />
+      <point x="44.5" y="60.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.se.sample.devices.Tv" target="com.se.sample.devices.Device">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="208.5" y="76.33333333333331" />
+  <SelectedNodes>
+    <node>com.se.sample.devices.Remote</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
