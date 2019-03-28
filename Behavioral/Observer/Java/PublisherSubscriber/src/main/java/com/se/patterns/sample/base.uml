@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="158.0" y="80.0">com.se.patterns.sample.EmailNotificationListener</node>
+    <node x="169.0" y="155.0">com.se.patterns.sample.Editor</node>
+    <node x="0.0" y="80.0">com.se.patterns.sample.LogOpenListener</node>
+    <node x="0.0" y="155.0">com.se.patterns.sample.EventManager</node>
+    <node x="99.75" y="0.0">com.se.patterns.sample.EventListener</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.se.patterns.sample.EmailNotificationListener" target="com.se.patterns.sample.EventListener">
+      <point x="0.0" y="-15.0" />
+      <point x="248.5" y="55.0" />
+      <point x="188.25" y="55.0" />
+      <point x="29.5" y="15.0" />
+    </edge>
+    <edge source="com.se.patterns.sample.LogOpenListener" target="com.se.patterns.sample.EventListener">
+      <point x="0.0" y="-15.0" />
+      <point x="69.0" y="55.0" />
+      <point x="129.25" y="55.0" />
+      <point x="-29.5" y="15.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="152.0" y="89.5" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
