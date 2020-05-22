@@ -1,0 +1,6 @@
+E:\Documents\Documents\Projects\Patterns\design_pattern_samples\Behavioral\Visitor\Net\Visitor\VisitorNet\bin\Debug\VisitorNet.exe.config
+E:\Documents\Documents\Projects\Patterns\design_pattern_samples\Behavioral\Visitor\Net\Visitor\VisitorNet\bin\Debug\VisitorNet.exe
+E:\Documents\Documents\Projects\Patterns\design_pattern_samples\Behavioral\Visitor\Net\Visitor\VisitorNet\bin\Debug\VisitorNet.pdb
+E:\Documents\Documents\Projects\Patterns\design_pattern_samples\Behavioral\Visitor\Net\Visitor\VisitorNet\obj\Debug\VisitorNet.exe
+E:\Documents\Documents\Projects\Patterns\design_pattern_samples\Behavioral\Visitor\Net\Visitor\VisitorNet\obj\Debug\VisitorNet.pdb
+E:\Documents\Documents\Projects\Patterns\design_pattern_samples\Behavioral\Visitor\Net\Visitor\VisitorNet\obj\Debug\VisitorNet.csprojResolveAssemblyReference.cache

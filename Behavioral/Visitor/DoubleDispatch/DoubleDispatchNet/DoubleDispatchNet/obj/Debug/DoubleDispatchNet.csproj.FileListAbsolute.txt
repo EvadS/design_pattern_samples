@@ -1,0 +1,2 @@
+E:\Documents\Documents\Projects\Patterns\design_pattern_samples\Behavioral\Visitor\DoubleDispatch\DoubleDispatchNet\DoubleDispatchNet\bin\Debug\DoubleDispatchNet.exe.config
+E:\Documents\Documents\Projects\Patterns\design_pattern_samples\Behavioral\Visitor\DoubleDispatch\DoubleDispatchNet\DoubleDispatchNet\obj\Debug\DoubleDispatchNet.csprojResolveAssemblyReference.cache
