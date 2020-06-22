@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cb3433a-620e-4d1e-9608-a3477b10ba16" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/MailInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/MailProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/version1/EmailCallbackMainGeneratorImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/version1/MailGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/version1/MailSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/version1/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/version1/WelcomeMainGeneratorImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/version2/EmailCallbackMainGeneratorV2Impl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/version2/HappyBirthDay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/version2/MailGenerator_V2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/version2/MailSender_V2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/version2/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/version2/WelcomeMainGeneratorV2Impl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +45,7 @@
       <recent name="com.example.demo" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Documents\Documents\Projects\Patterns\design_pattern_samples\Spring\strategy" />
       <recent name="E:\Documents\Documents\Projects\Patterns\design_pattern_samples\Spring\strategy\src\main\java\com\example\demo\version1" />
       <recent name="E:\Documents\Documents\Projects\Patterns\design_pattern_samples\Spring\strategy\src\main\java\com\example\demo\version2" />
     </key>
@@ -99,7 +88,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590090449232</updated>
-      <workItem from="1590090450606" duration="6749000" />
+      <workItem from="1590090450606" duration="6978000" />
+      <workItem from="1590128556070" duration="721000" />
     </task>
     <servers />
   </component>
@@ -111,7 +101,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
